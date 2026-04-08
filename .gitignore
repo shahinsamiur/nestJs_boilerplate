@@ -398,3 +398,8 @@ Temporary Items
 dist
 .webpack
 .serverless/**/*.zip
+
+/src/generated/prisma
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
